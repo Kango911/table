@@ -1,0 +1,15 @@
+D:\JetBrains\table\table\bin\Debug\net6.0\table.exe
+D:\JetBrains\table\table\bin\Debug\net6.0\table.deps.json
+D:\JetBrains\table\table\bin\Debug\net6.0\table.runtimeconfig.json
+D:\JetBrains\table\table\bin\Debug\net6.0\table.dll
+D:\JetBrains\table\table\bin\Debug\net6.0\table.pdb
+D:\JetBrains\table\table\obj\Debug\net6.0\table.csproj.AssemblyReference.cache
+D:\JetBrains\table\table\obj\Debug\net6.0\table.GeneratedMSBuildEditorConfig.editorconfig
+D:\JetBrains\table\table\obj\Debug\net6.0\table.AssemblyInfoInputs.cache
+D:\JetBrains\table\table\obj\Debug\net6.0\table.AssemblyInfo.cs
+D:\JetBrains\table\table\obj\Debug\net6.0\table.csproj.CoreCompileInputs.cache
+D:\JetBrains\table\table\obj\Debug\net6.0\table.dll
+D:\JetBrains\table\table\obj\Debug\net6.0\refint\table.dll
+D:\JetBrains\table\table\obj\Debug\net6.0\table.pdb
+D:\JetBrains\table\table\obj\Debug\net6.0\table.genruntimeconfig.cache
+D:\JetBrains\table\table\obj\Debug\net6.0\ref\table.dll
