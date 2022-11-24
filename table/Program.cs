@@ -8,7 +8,7 @@ namespace ClassWork
         public static void Main()
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
-            Console.Title = "NxM table";
+            Console.Title = "NxM table Lipenkov PrI-101";
             Console.ForegroundColor = ConsoleColor.Magenta;
 
             Console.Write("Введите количество строк таблицы * до 25 *: ");
